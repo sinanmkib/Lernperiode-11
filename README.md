@@ -8,3 +8,6 @@ mich zusätzlich noch andersweitig beschäftigen. Ich werde regelmässig kurze u
 Ich werde heute nach verschiedenen weiteren Firmen für ein Praktikum suchen.
 Bei meinem bisherigen Favorit WLW hab ich schon meine Bewerbugn abgeschickt.
 zusätzlich werde ich noch an projektideen arbeiten
+
+# Reflexion
+Ich habe heute mich vorallem mit der Bewerbung befasst, d.h. diverse Motivationsschreiben und erweiterte Firmensuche. Ich musste an der Website auch kleine Äanderungen machen und diese testen.
