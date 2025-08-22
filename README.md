@@ -6,8 +6,16 @@ mich zusätzlich noch andersweitig beschäftigen. Ich werde regelmässig kurze u
 
 # Planung 15.08
 Ich werde heute nach verschiedenen weiteren Firmen für ein Praktikum suchen.
-Bei meinem bisherigen Favorit WLW hab ich schon meine Bewerbugn abgeschickt.
 zusätzlich werde ich noch an projektideen arbeiten
 
 # Reflexion
-Ich habe heute mich vorallem mit der Bewerbung befasst, d.h. diverse Motivationsschreiben und erweiterte Firmensuche. Ich musste an der Website auch kleine Äanderungen machen und diese testen.
+Ich habe heute mich vorallem mit der Bewerbung befasst, d.h. diverse Motivationsschreiben und erweiterte Firmensuche. Ich musste an der Website auch kleine Äanderungen machen und diese testen. 
+
+# Planung 22.08
+Ich habe vor zwei Bewerbungsschreiben abzufertigen und mich zusätzlich noch kurz mit Javascrit zu befassen.
+
+# Reflexion
+Die Bewertungen sind angefertigt und ich werde sie zeitnah abschicken, auch das Javascript habe ich kurz angeschaut. Im javascript habe ich einfach kurz Basics repetiert und nochmals mich selbst abgefragt
+
+# Planung 29.08
+Ich werde mich weiter mit Bewerbungen befassen sowie Javascript und backend in den fokus nehmen
