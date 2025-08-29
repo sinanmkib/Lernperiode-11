@@ -19,3 +19,6 @@ Die Bewertungen sind angefertigt und ich werde sie zeitnah abschicken, auch das 
 
 # Planung 29.08
 Ich werde mich weiter mit Bewerbungen befassen sowie Javascript und backend in den fokus nehmen
+
+# Reflexion 29.08
+Ich habe mich weiter mit Bewerbungen befasst und Unternehmen gesucht, ebenso habe ich mich kurz mi javascript und generell dem thema backend mehr auseinandergesetzt
