@@ -22,3 +22,9 @@ Ich werde mich weiter mit Bewerbungen befassen sowie Javascript und backend in d
 
 # Reflexion 29.08
 Ich habe mich weiter mit Bewerbungen befasst und Unternehmen gesucht, ebenso habe ich mich kurz mi javascript und generell dem thema backend mehr auseinandergesetzt
+
+# Planung 5.9
+Ich werde lernen mit Java zu arbeiten, primär tutorials und theorie
+
+# Reflexion 5.9
+Die vorher angegebenen Sachen wurden erledigt, ich habe jetzt die Basics gut kennengelernt
