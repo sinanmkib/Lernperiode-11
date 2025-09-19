@@ -62,13 +62,13 @@ Ich habe heute konkret mich mehr mit Java befasst und meine kenntnisse aktiv ver
 
 ---
 
-## 19.09
-### Planung
-- [ ] Java-Projekt weiterentwickeln (z. B. Funktionen hinzufügen, Fehlerbehandlung einbauen)  
-- [ ] Grundlagen in Datenbanken (SQL Basics) anschauen  
-- [ ] Kurze Übung: Java mit Datenbank verbinden (theoretisch oder einfaches Beispiel)  
-- [ ] Bewerbungsstatus checken (offene Bewerbungen nachverfolgen, Rückmeldungen dokumentieren)  
+## 19.09  
+**Reflexion:** Fortschritte im Java-Projekt und SQL-Grundlagen gemacht, erste DB-Anbindung theoretisch nachvollzogen, Bewerbungsstatus aktualisiert.  
 
-### Reflexion
-*(noch offen – nachtragen)*  
+**Nächste Schritte (20.09):**  
+- [ ] Java-Projekt: Fehlerbehandlung verbessern  
+- [ ] SQL-Übungen praktisch vertiefen  
+- [ ] Kleine Java-DB-Demo umsetzen  
+- [ ] Bewerbungen weiter nachverfolgen  
+
 
