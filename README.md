@@ -65,10 +65,24 @@ Ich habe heute konkret mich mehr mit Java befasst und meine kenntnisse aktiv ver
 ## 19.09  
 **Reflexion:** Fortschritte im Java-Projekt und SQL-Grundlagen gemacht, erste DB-Anbindung theoretisch nachvollzogen, Bewerbungsstatus aktualisiert.  
 
-**Nächste Schritte (20.09):**  
+**Nächste Schritte (26.09):**  
 - [ ] Java-Projekt: Fehlerbehandlung verbessern  
 - [ ] SQL-Übungen praktisch vertiefen  
 - [ ] Kleine Java-DB-Demo umsetzen  
-- [ ] Bewerbungen weiter nachverfolgen  
+- [ ] Bewerbungen weiter nachverfolgen
 
+---
+
+# 26.09
+**Reflexion**
+Heute gute Fortschritte im Java-Projekt gemacht, insbesondere beim Verständnis der Fehlerquellen. Die Grundlagen von SQL nachvollzogen und den Aufbau einer ersten Datenbankanbindung theoretisch verstanden. Außerdem den Bewerbungsstatus aktualisiert und den Überblick über laufende Prozesse behalten.
+
+---
+
+# Abschluss Lernperiode
+In dieser Lernperiode habe ich mich klar auf zwei Schwerpunkte konzentriert: die Praktikumssuche und den Ausbau meiner Programmierkenntnisse. Bei den Bewerbungen habe ich regelmäßig Fortschritte gemacht, verschiedene Unternehmen recherchiert und mehrere Bewerbungsunterlagen erstellt sowie nachverfolgt. Dadurch habe ich meinen Bewerbungsprozess systematisch vorangetrieben und den Überblick behalten.
+
+Technisch konnte ich mich sowohl in Java als auch in SQL weiterentwickeln. Besonders hilfreich war das Arbeiten an einem eigenen Java-Projekt, bei dem ich Klassen, Methoden und erste Fehlerbehandlungen umgesetzt habe. Zusätzlich habe ich mich mit Datenbanken beschäftigt, die SQL-Grundlagen erarbeitet und den theoretischen Ablauf einer Datenbankanbindung nachvollzogen. Das wird mir in zukünftigen Projekten noch mehr Sicherheit geben.
+
+Weniger zufrieden war ich mit der LB 324 Prüfung. Das Ergebnis und die Prüfungssituation haben mich enttäuscht, da ich mir dort mehr Erfolg erhofft hatte. 
 
