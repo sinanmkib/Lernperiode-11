@@ -66,10 +66,10 @@ Ich habe heute konkret mich mehr mit Java befasst und meine kenntnisse aktiv ver
 **Reflexion:** Fortschritte im Java-Projekt und SQL-Grundlagen gemacht, erste DB-Anbindung theoretisch nachvollzogen, Bewerbungsstatus aktualisiert.  
 
 **Nächste Schritte (26.09):**  
-- [ ] Java-Projekt: Fehlerbehandlung verbessern  
-- [ ] SQL-Übungen praktisch vertiefen  
+- [x] Java-Projekt: Fehlerbehandlung verbessern  
+- [x] SQL-Übungen praktisch vertiefen  
 - [ ] Kleine Java-DB-Demo umsetzen  
-- [ ] Bewerbungen weiter nachverfolgen
+- [x] Bewerbungen weiter nachverfolgen
 
 ---
 
